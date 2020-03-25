@@ -16,6 +16,7 @@ public class ArithmeticOperation {
 		int mult=num1*num2;
 		
 		int div=num1/num2;
+		System.out.println("Hello");
 		
 		//i want the result of the addition
 		
